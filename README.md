@@ -8,7 +8,7 @@ To push an update, the Pubdate and Sparkle version both need to be updated.
 
 `<enclosure url="https://github.com/aislingbrock/rss-sketch-library/blob/master/sketch-library.sketch?raw=true" type="application/octet-stream" sparkle:version="3"/>`
 
-The URL for the library /must/ be the raw url that contains `?raw=true`
+The URL for the library should be the raw url that contains `?raw=true`
 
 Note: I had initially tried the version number as 0.2 and an update wasn't pushed so I'm not sure how it deals with decimals. We will need to test this further.
 
