@@ -10,7 +10,7 @@ To push an update, the Pubdate and Sparkle version both need to be updated.
 
 The URL for the library should be the raw url that contains `?raw=true`
 
-Note: I had initially tried the version number as 0.2 and an update wasn't pushed so I'm not sure how it deals with decimals. We will need to test this further.
+Note: I've had issues when trying to increment the version number by a decimal. So, the version number in the enclosure URL may not necessarily match the version of the library itself. 
 
 ## Download the library
 
